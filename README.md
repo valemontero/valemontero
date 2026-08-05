@@ -6,5 +6,5 @@
 - 🤔 Actualmente estoy profundizando en BackEnd con Java Spring Boot y formálizandome constantemente
 
 ### Tecnologías:
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,cs,git,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,git,mysql,postgres)](https://skillicons.dev)
 
