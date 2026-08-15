@@ -3,7 +3,8 @@
 
 ### 🤵Sobre mí:
 - 🏦 Me encuentro cursando una Tecnicatura Universitaria en Programación infórmatica
-- 🤔 Actualmente estoy profundizando en BackEnd con Java Spring Boot y formálizandome constantemente
+- 🤔 Actualmente me encuentro reforzando mis conocimientos en programación y practicando mis habilidades
+- 💻 Interesado en el desarrollo Back End, me encuentro practicando utilizando Java con Spring - Spring Boot.
 
 ### Tecnologías:
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,git,mysql,postgres)](https://skillicons.dev)
